@@ -4,7 +4,7 @@ Este projeto é uma verificação do número digitado se é par ou não. No cód
 [<img src="img/Numeropar.gif">](https://github.com/Arqgilmar/N-mero-Par-em-C/tree/main/img)
 
 
-## ⚡ Languages used
+## ⚡ Linguagem usada
 
 <div style="display: inline_block"><br>
  <img align="center" alt="Gilmar-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
