@@ -1,7 +1,7 @@
 # Número Par 🔴
 Este projeto é uma verificação do número digitado se é par ou não. No código foi utilizado a linguagem C. 
 
-[<img src="images\Numeropar.gif">](https://github.com/Arqgilmar/N-mero-Par-em-C/tree/main/img)
+[<img src="img/Numeropar.gif">](https://github.com/Arqgilmar/N-mero-Par-em-C/tree/main/img)
 
 
 ## ⚡ Languages used
