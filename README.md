@@ -1,7 +1,7 @@
 # Número Par 🔴
 Este projeto é uma verificação do número digitado se é par ou não. No código foi utilizado a linguagem C. 
 
-[<img src="images\project.gif">](https://alansouza7.github.io/pokedex/)
+[<img src="./Vídeos/Numeropar">]
 
 
 ## ⚡ Languages used
